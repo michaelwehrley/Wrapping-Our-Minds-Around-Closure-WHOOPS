@@ -34,7 +34,7 @@ Resources:
 
 ### Problems
 
-1. `identityf(3) // 3`
+1. `identity(3) // 3`
 
 2. `add(3, 4) // 7`
 
